@@ -1,0 +1,1 @@
+!function(){const e=document.querySelector("#content"),t=document.createElement("h1"),n=document.createElement("p");t.textContent="Welcome to My Restaurant",n.textContent="Experience the finest dining at our restaurant. With our exquisite dishes and cozy ambiance, we guarantee a memorable culinary journey for every visitor.",e.appendChild(t),e.appendChild(n)}();
